@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.mavenproject3;
+package com.mycompany.ServisKomputer;
 
 /**
  *
@@ -11,7 +11,7 @@ package com.mycompany.mavenproject3;
 
 import java.util.Scanner;
 
-public class Mavenproject3 {
+public class ServisKomputer{
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
